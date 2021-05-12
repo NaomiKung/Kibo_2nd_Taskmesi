@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Kibo\\Taskmesi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\astrobee.mp3",
+        "source": "D:\\Kibo\\Taskmesi\\app\\src\\main\\res\\raw\\astrobee.mp3"
+    },
+    {
+        "merged": "D:\\Kibo\\DefaultApk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\astrobee.mp3",
+        "source": "D:\\Kibo\\DefaultApk\\app\\src\\main\\res\\raw\\astrobee.mp3"
+    }
+]

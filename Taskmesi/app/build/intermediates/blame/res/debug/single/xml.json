@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Kibo\\DefaultApk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\commands.xml",
+        "source": "D:\\Kibo\\DefaultApk\\app\\src\\main\\res\\xml\\commands.xml"
+    },
+    {
+        "merged": "D:\\Kibo\\Taskmesi\\app\\build\\intermediates\\res\\merged\\debug\\xml\\commands.xml",
+        "source": "D:\\Kibo\\Taskmesi\\app\\src\\main\\res\\xml\\commands.xml"
+    }
+]
